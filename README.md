@@ -1,5 +1,5 @@
 # aNano
-A little bash script that outputs an ascii version of Nano Shinonome (東雲なの).
+A small bash script that outputs an ascii version of Nano Shinonome (東雲なの).
 
 
 You can run it by typing this into your terminal:
