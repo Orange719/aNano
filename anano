@@ -1,5 +1,5 @@
 #!/bin/bash
-
+echo "Hello World"
 #Colors
 Y='\033[1;33m'; #Yellow
 G='\033[1;30m'; #Light Gray
